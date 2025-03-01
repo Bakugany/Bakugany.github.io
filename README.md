@@ -6,7 +6,7 @@ I'm a Math and IT student at the University of Warsaw.
 
 I've been learning to code for 5 years. Right now I code mostly in c++ and python.
 
-*   🌍  I'm based in Warsaw
+*   🌍  I'm based in Warsaw, Poland
 *   ✉️  You can contact me at [dudziak.piotrek@gmail.com](mailto:dudziak.piotrek@gmail.com)
 *   🤝  I'm open to collaborating on interesting project
 
