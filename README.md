@@ -15,6 +15,6 @@ I've been learning to code for 5 years. Right now I code mostly in c++ and pytho
                     </p>
 
 ### Links to my projects (still in progress)
+### Project from web applications course.
 <p align= "left">
-First project from web aplication course
 <a href="https://bakugany.github.io/Web_Applications/">Link text</a>
