@@ -17,4 +17,4 @@ I've been learning to code for 5 years. Right now I code mostly in c++ and pytho
 ### Links to my projects (still in progress)
 <p align= "left">
 First project from web aplication course
-<a href="https://bakugany.github.io/Web_Applications/Task1/Project1-Web">Link text</a>
+<a href="https://bakugany.github.io/Web_Applications/">Link text</a>
