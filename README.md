@@ -16,4 +16,4 @@ I've been learning to code for 5 years. Right now I code mostly in c++ and pytho
 
 ### Links to projects from courses that I took (still in progress)
   - [Web_Applications ](https://bakugany.github.io/Web_Applications/)
-  - [Programming in c++] (https://github.com/Bakugany/Programming-in-cpp)
+  - [Programming in c++](https://github.com/Bakugany/Programming-in-cpp)
