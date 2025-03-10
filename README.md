@@ -20,3 +20,4 @@ I've been learning to code for 5 years. Right now I code mostly in c++ and pytho
   - [Web applications](https://bakugany.github.io/Web_Applications/)
   - [Programming in c++](https://github.com/Bakugany/Programming-in-cpp)
   - [Object oriented programming](https://github.com/Bakugany/Object-oriented-programming)
+  - [Concurrent programming](https://github.com/Bakugany/Concurrent-programming-)
