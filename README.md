@@ -15,10 +15,10 @@ I've been learning to code for 5 years. Right now I code mostly in c++ and pytho
                     </p>
 
 ### Links to projects from courses that I took (still in progress)
-  - [Computer architecture and oprating systems](https://github.com/Bakugany/Computer-Architecture-and-Operating-Systems)
-  - [Introduction to programming](https://github.com/Bakugany/Introduction_to_programming)
-  - [Web applications](https://bakugany.github.io/Web_Applications/)
-  - [Programming in c++](https://github.com/Bakugany/Programming-in-cpp)
-  - [Object oriented programming](https://github.com/Bakugany/Object-oriented-programming)
-  - [Concurrent programming](https://github.com/Bakugany/Concurrent-programming-)
-  - [Programming in python](https://github.com/Bakugany/Programming-in-Python)
+  - [Computer architecture and oprating systems](https://github.com/PiotrDudziak/Computer-Architecture-and-Operating-Systems)
+  - [Introduction to programming](https://github.com/PiotrDudziak/Introduction_to_programming)
+  - [Web applications](https://piotrdudziak.github.io/Web_Applications/)
+  - [Programming in c++](https://github.com/PiotrDudziak/Programming-in-cpp)
+  - [Object oriented programming](https://github.com/PiotrDudziak/Object-oriented-programming)
+  - [Concurrent programming](https://github.com/PiotrDudziak/Concurrent-programming-)
+  - [Programming in python](https://github.com/PiotrDudziak/Programming-in-Python)
